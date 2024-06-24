@@ -1,5 +1,5 @@
 <?php
-include_once("/storage/emulated/0/Venter/HopWeb/Projects/My Website/head.php");
+include_once("head.php");
 ?>
 <html>
 <head>
