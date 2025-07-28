@@ -1,5 +1,3 @@
----
-
 # 📱 That Website (2024)
 
 > A simple static website created in 2024 during the first year of BCA
